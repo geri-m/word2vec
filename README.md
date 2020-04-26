@@ -1,16 +1,17 @@
 # Word2Vec/Skip-Gram Demo
 
 The following example shows the usage of Word2Vec and how a custom
-model can be improved. The implementation is based on `TensorFlow 2 `
-and can easily be run as a Colab-Notebook (https://colab.research.google.com/)
+model can be improved. The implementation is based on `TensorFlow 2`
+and can easily be run as a [Colab-Notebook](https://colab.research.google.com/)
 
 How to Test
 - Go To [Google Colab](https://colab.research.google.com/)
 - Create Gmail/Google Account (or login)
 - Open the File via "File" -> "Open Notebook" -> Github
+- Open `word2vec.ipynb` in https://github.com/geri-m/word2vec
 - "Runtime" -> "Run All"
 
-Source for the Example given here: https://blog.cambridgespark.com/tutorial-build-your-own-embedding-and-use-it-in-a-neural-network-e9cde4a81296
+This sample code is from the tutorial on [Cambridge spark](https://blog.cambridgespark.com/tutorial-build-your-own-embedding-and-use-it-in-a-neural-network-e9cde4a81296).
 
 ###  Known Issue
 
